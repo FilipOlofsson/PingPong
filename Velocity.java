@@ -1,7 +1,7 @@
 public class Velocity {
-    int x;
-    int y;
-    public Velocity(int x, int y) {
+    double x;
+    double y;
+    public Velocity(double x, double y) {
         this.x = x;
         this.y = y;
     }

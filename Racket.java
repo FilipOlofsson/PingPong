@@ -1,6 +1,6 @@
 public class Racket {
 
-    int width = 2;
+    int width = 50;
     int height = 200;
     int x, y;
 
